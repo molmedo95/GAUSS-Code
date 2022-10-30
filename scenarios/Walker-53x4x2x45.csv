@@ -1,0 +1,6 @@
+Index,Name,Type,ApogeeAltitude,PerigeeAltitude,Inclination,ArgOfPerigee,RAAN,TrueAnomaly,CnstrMaxRange,Lat,Lon,H,CnstrMinElev
+1,CETT,GS,NaN,NaN,NaN,NaN,NaN,NaN,NaN,"-31,525","-64,462","0,005",5
+2,Sat_1,SAT,700,700,53,0,0,0,2500,NaN,NaN,NaN,NaN
+3,Sat_2,SAT,300,300,53,0,0,120,2500,NaN,NaN,NaN,NaN
+4,Sat_3,SAT,300,300,53,45,60,0,2500,NaN,NaN,NaN,NaN
+5,Sat_4,SAT,700,700,53,45,60,120,2500,NaN,NaN,NaN,NaN
